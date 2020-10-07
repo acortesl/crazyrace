@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item>
+        <shape  >
+            <solid android:color="#aaFBCF00" />
+            <stroke android:width="3dip" android:color="#FFFB9400" />
+            <corners android:radius="10dip" />
+            <padding android:bottom="1dip" android:left="1dip" android:right="1dip" android:top="1dip" />
+        </shape>
+    </item>
+	<item android:drawable="@drawable/sound_on"/>
+</layer-list>

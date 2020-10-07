@@ -1,0 +1,894 @@
+[
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_roca2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/roca2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/anim-w900dp_fragment_transition_left_out.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/anim-w900dp/fragment_transition_left_out.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_menu_toggle_selector.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/menu_toggle_selector.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_nave.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/nave.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_background4.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/background4.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_menu_lang_english.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/menu_lang_english.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_meta.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/meta.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_titulo.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/titulo.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_bomba.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/bomba.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_boton3.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/boton3.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_bomba.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/bomba.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/layout_menu_opciones_fragment.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/layout/menu_opciones_fragment.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_background.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/background.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/raw_fondo_menu2.ogg.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/raw/fondo_menu2.ogg"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_flecha_avanzar.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/flecha_avanzar.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_background3.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/background3.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/raw_boton.ogg.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/raw/boton.ogg"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/layout_menu_ranking_fragment.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/layout/menu_ranking_fragment.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_background2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/background2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_backbutton_up.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/backbutton_up.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_backbutton_up.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/backbutton_up.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_coin.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/coin.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_roca1.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/roca1.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_aura.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/aura.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_coin.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/coin.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_meta.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/meta.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_auramini.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/auramini.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_rightarrow.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/rightarrow.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_aura.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/aura.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_background3.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/background3.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_seek_thumb_pressed.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/seek_thumb_pressed.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_leftarrow.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/leftarrow.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_boton2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/boton2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_menu_lang_spanish.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/menu_lang_spanish.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_rightarrow.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/rightarrow.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_leftarrow.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/leftarrow.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_roca3.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/roca3.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_leftarrow.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/leftarrow.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_boton1.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/boton1.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_leftarrow.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/leftarrow.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_roca1.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/roca1.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_backbutton_down.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/backbutton_down.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_planet_2_0.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/planet_2_0.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_menu_lang_english.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/menu_lang_english.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_planet_1_0.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/planet_1_0.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_boton2_2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/boton2_2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_boton3_2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/boton3_2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/raw_crazy_race.ogg.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/raw/crazy_race.ogg"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_roca1.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/roca1.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_planet_3_0.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/planet_3_0.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_preview_0_1.jpg.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/preview_0_1.jpg"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_background3.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/background3.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_seek_thumb_pressed.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/seek_thumb_pressed.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_background2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/background2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_menu_toggle_on_up.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/menu_toggle_on_up.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_background.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/layout_menu_nueva_partida_fragment.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/layout/menu_nueva_partida_fragment.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/menu_opciones.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/menu/opciones.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_boton2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/boton2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_planet_2_0.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/planet_2_0.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_coin.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/coin.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_background.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/background.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_aura.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/aura.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/layout_menu_menu_principal_fragment.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/layout/menu_menu_principal_fragment.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_roca1.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/roca1.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_background.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/background.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_roca1.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/roca1.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_double_planet.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/double_planet.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_nave.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/nave.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_background2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/background2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_nave.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/nave.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_roca3.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/roca3.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_planet_2_0.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/planet_2_0.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_pixelplanets_0.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/pixelplanets_0.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_roca2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/roca2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_seek_thumb_selected.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/seek_thumb_selected.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_planet_2_0.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/planet_2_0.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/menu_menu.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_boton2_2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/boton2_2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_boton2_2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/boton2_2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_titulo2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/titulo2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/anim_anim2.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/anim/anim2.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_boton1_2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/boton1_2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_leftarrow.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/leftarrow.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_bg5.jpg.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/bg5.jpg"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_roca2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/roca2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_roca2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/roca2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_back1.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/back1.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_menu_toggle_off_down.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/menu_toggle_off_down.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/raw_perder.ogg.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/raw/perder.ogg"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_background3.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/background3.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_backbutton_down.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/backbutton_down.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/anim-w700dp_fragment_transition_left_in.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/anim-w700dp/fragment_transition_left_in.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_bomba.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/bomba.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_auramini.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/auramini.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_sound_off.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/sound_off.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_meta.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/meta.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_roca3.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/roca3.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_background4.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/background4.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_menu_lang_spanish.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/menu_lang_spanish.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_menu_backbutton_selector.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/menu_backbutton_selector.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_background4.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/background4.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_boton3.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/boton3.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/anim-w700dp_fragment_transition_left_out.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/anim-w700dp/fragment_transition_left_out.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_background4.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/background4.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_boton2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/boton2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/anim-w900dp_fragment_transition_left_in.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/anim-w900dp/fragment_transition_left_in.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_aura.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/aura.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_titulo.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/titulo.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_boton1.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/boton1.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_menu_button_up.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/menu_button_up.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_coin.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/coin.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_back3.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/back3.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_background2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/background2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/raw_boton2.ogg.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/raw/boton2.ogg"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_lava0001.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/lava0001.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_auramini.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/auramini.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/anim_animation.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/anim/animation.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_menu_lang_english.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/menu_lang_english.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_nave.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/nave.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_backbutton_down.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/backbutton_down.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_roca3.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/roca3.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_background.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/background.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_rightarrow.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/rightarrow.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_lava0002.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/lava0002.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_seek_thumb_pressed.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/seek_thumb_pressed.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_aura.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/aura.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_background3.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/background3.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_titulo.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/titulo.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_backbutton_down.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/backbutton_down.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_boton3.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/boton3.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_menu_button_selector.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/menu_button_selector.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/raw_fondo_menu.ogg.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/raw/fondo_menu.ogg"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_menu_toggle_off_up.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/menu_toggle_off_up.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_menu_lang_english.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/menu_lang_english.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_titulo2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/titulo2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/raw_bomba.mp3.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/raw/bomba.mp3"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_boton2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/boton2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_back2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/back2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_titulo.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/titulo.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/menu_unirse.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/menu/unirse.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_roca3.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/roca3.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_background4.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/background4.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_planet_3_0.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/planet_3_0.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_boton1.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/boton1.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_boton3_2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/boton3_2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/raw_fondo_juego.ogg.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/raw/fondo_juego.ogg"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_planet_1_0.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/planet_1_0.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_roca2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/roca2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_boton2_2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/boton2_2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_lava0003.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/lava0003.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_planet_2_0.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/planet_2_0.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_boton1_2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/boton1_2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_planet_1_0.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/planet_1_0.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_lava0005.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/lava0005.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_menu_toggle_on_down.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/menu_toggle_on_down.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_backbutton_up.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/backbutton_up.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_auramini.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/auramini.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_boton3_2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/boton3_2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_nave.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/nave.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_planet_3_0.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/planet_3_0.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_menu_lang_spanish.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/menu_lang_spanish.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_bomba.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/bomba.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_background2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/background2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_titulo2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/titulo2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_titulo.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/titulo.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/raw_ganar.ogg.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/raw/ganar.ogg"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_meta.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/meta.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_boton1_2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/boton1_2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_progress_seekbar.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/progress_seekbar.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_rightarrow.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/rightarrow.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_menu_lang_spanish.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/menu_lang_spanish.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_lava0004.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/lava0004.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_titulo2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/titulo2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_fondo.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/fondo.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_boton3.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/boton3.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_rightarrow.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/rightarrow.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_planet_1_0.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/planet_1_0.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_boton1.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/boton1.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_planet_3_0.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/planet_3_0.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_thumbseekbar.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/thumbseekbar.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_planet_1_0.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/planet_1_0.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_boton3_2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/boton3_2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xhdpi_boton1_2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xhdpi/boton1_2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_planet_3_0.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/planet_3_0.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_flecha_subir.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/flecha_subir.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_backgr.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/backgr.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_boton2_2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/boton2_2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_backbutton_up.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/backbutton_up.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_boton1_2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/boton1_2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_titulo2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/titulo2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/menu_nueva_partida.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/menu/nueva_partida.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_backbutton_down.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/backbutton_down.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/raw_escudo.mp3.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/raw/escudo.mp3"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/anim_fragment_transition_left_in.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/anim/fragment_transition_left_in.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_seek_thumb_pressed.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/seek_thumb_pressed.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_seek_thumb_selected.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/seek_thumb_selected.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_boton2.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/boton2.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_menu_lang_english.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/menu_lang_english.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_seek_thumb_selected.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/seek_thumb_selected.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_menu_lang_spanish.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/menu_lang_spanish.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_bomba.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/bomba.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_boton1.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/boton1.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_backbutton_up.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/backbutton_up.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_auramini.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/auramini.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-mdpi_coin.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-mdpi/coin.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_sound_on.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/sound_on.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-xxhdpi_seek_thumb_selected.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-xxhdpi/seek_thumb_selected.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_menu_button_down.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/menu_button_down.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/raw_rebote.ogg.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/raw/rebote.ogg"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/anim_fragment_transition_left_out.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/anim/fragment_transition_left_out.xml"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable-hdpi_meta.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable-hdpi/meta.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/drawable_pelota.png.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/drawable/pelota.png"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/raw_moneda.ogg.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/raw/moneda.ogg"
+    },
+    {
+        "merged": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/res/merged/debug/layout_menu_activity.xml.flat",
+        "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/layout/menu_activity.xml"
+    }
+]

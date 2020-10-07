@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seekbarProgress">#ffc600</color>
+    <color name="seekbarBackground">#664a4a4a</color>
+    <color name="resultado"> #fffff500</color>
+	<color name="distancia">#5c74cd</color>
+	<color name="borde">#00BDFF</color>
+	<color name="azulMensajes">#000088</color>
+	<color name="hint">#fff500</color>
+</resources>

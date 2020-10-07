@@ -1,0 +1,139 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="MenuButtonFontSize">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="MenuButtonFont" parent="MenuButtonFontSize">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textColorHint">#ffffffff</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+    
+    <style name="MenuButtonsStyle" parent="MenuButtonFont">
+        <item name="android:background">@drawable/menu_button_selector</item>
+    </style>
+
+    <style name="MenuButtonsMargin" parent="MenuButtonsStyle">
+        <item name="android:layout_marginBottom">40dp</item>
+    </style>
+
+    <style name="MenuButtons" parent="MenuButtonsMargin">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="MenuOptionsFontSize">
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="MenuOptionsFont" parent="MenuOptionsFontSize">
+        <item name="android:textColor">#FFFB9400</item>
+        <item name="android:textColorHint">#FFFB9400</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="MenuButtonsStartGame" parent="MenuButtons">
+        <item name="android:layout_width">300dp</item>
+    </style>
+
+    <style name="MenuBackButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/menu_backbutton_selector</item>
+    </style>
+
+    <!-- Ranking -->
+
+    <style name="RankingFontTitle" parent="RankingFontSize">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textColorHint">#ffffffff</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="RankingFontHeader" parent="RankingFontHeaderSize">
+        <item name="android:textColor">#ffffff00</item>
+        <item name="android:textColorHint">#ffffff00</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="seek" parent="SeekDimens">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+
+    <style name="arrowbutton" >
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:paddingBottom">4dp</item>
+    </style>
+
+    <style name="leftarrow" parent="arrowbutton">
+        <item name="android:drawableRight">@drawable/leftarrow</item>
+    </style>
+
+    <style name="rightarrow" parent="arrowbutton">
+        <item name="android:drawableRight">@drawable/rightarrow</item>
+    </style>
+
+
+    <style name="stagenumber" parent="MenuOptionsFont">
+        <item name="android:layout_marginRight">30dp</item>
+        <item name="android:layout_marginLeft">25dp</item>
+    </style>
+
+
+
+
+
+
+
+    <style name="MenuToggleButtons" parent="MenuButtonsStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <!-- <item name="android:layout_weight">10</item> -->
+        <item name="android:layout_height">wrap_content</item>
+		<item name="android:textOn"></item>
+        <item name="android:textOff"></item>
+        <item name="android:background">@drawable/menu_toggle_selector</item>
+    </style>
+    
+
+ 	<style name="MenuLangButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>                
+    </style>
+
+    <style name="MenuSpanishButton" parent="MenuLangButton">        
+        <item name="android:background">@drawable/menu_lang_spanish</item>
+    </style>
+    <style name="MenuEnglishButton" parent="MenuLangButton">        
+        <item name="android:background">@drawable/menu_lang_english</item>
+    </style>
+
+
+
+
+
+</resources>

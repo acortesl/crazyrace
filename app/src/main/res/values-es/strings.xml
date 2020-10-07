@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <string name="app_name">Crazy Race</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <!-- Menu -->
+    <string name="nueva">Nueva partida</string>
+    <string name="ranking">Ranking</string>
+    <string name="opciones">Opciones</string>
+   
+    	<!-- Nueva partida -->
+    <string name="playButton">Jugar</string>
+    <string name="levelLabel">Dificultad:  </string>
+    <string name="stageLabel">Nivel: </string>
+    
+    <string name="levelEasy"> Fácil </string>
+    <string name="levelMedium"> Normal </string>
+    <string name="levelHard"> Difícil </string>
+    
+
+    <!-- Content Description -->
+    <string name="back_cnt_desc">Background</string>
+    <string name="title_cnt_desc">Title</string>
+    
+     <!-- Opciones -->
+    <string name="lang">Lenguaje: </string>
+    <string name="nombre">Nombre: </string>
+    <string name="sonido">Sonido: </string>
+
+    <!-- Fin de partida -->
+    <string name="ganas">Ganaste! </string>
+    <string name="pierdes">Perdiste! </string>
+    <string name="monedas">Monedas: </string>
+    <string name="tiempo">Tiempo: </string>
+
+    <!-- Ranking -->
+    <string name="rankingStage">Nivel</string>
+    <string name="rankingCoins">Monedas</string>
+    <string name="rankingTime">Tiempo</string>
+    <string name="defaulPlayerName">Player</string>
+
+
+</resources>

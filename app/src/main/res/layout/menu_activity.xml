@@ -1,0 +1,66 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgr"
+    android:orientation="vertical"
+    tools:context="com.crazyrace.menu.MenuActivity" >
+
+    <!-- animacion 1 -->
+
+    <ImageView
+        android:id="@+id/backgImg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/back2"
+        android:contentDescription="@string/back_cnt_desc" />
+
+    <!-- animacion 2 -->
+
+    <ImageView
+        android:id="@+id/backgImg2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/back3"
+        android:contentDescription="@string/back_cnt_desc" />
+
+    <!-- contenedor principal -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="10" />
+
+        <!-- titulo -->
+
+        <ImageView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="20"
+            android:background="@drawable/titulo2"
+            android:contentDescription="@string/title_cnt_desc" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="8" />
+
+        <!-- contenedor de fragments -->
+
+        <LinearLayout
+            android:id="@+id/contenedor"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="62"
+            android:orientation="vertical"></LinearLayout>
+        
+    </LinearLayout>
+
+</FrameLayout>

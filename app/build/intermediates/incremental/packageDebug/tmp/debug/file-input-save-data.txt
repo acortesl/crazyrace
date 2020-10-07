@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Oct 07 22:24:13 CEST 2020
+0.baseType=DIRECTORY
+0.base=/home/alex/StudioProjects/crazy-race/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

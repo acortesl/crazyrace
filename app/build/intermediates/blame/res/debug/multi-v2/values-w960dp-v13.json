@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/alex/StudioProjects/crazy-race/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w960dp-v13/values-w960dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/values-w960dp/dimens.xml",
+                    "from": {
+                        "startLines": "7,12,15,10,13,16,11,14",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "305,470,630,365,524,684,417,577",
+                        "endColumns": "57,53,53,51,52,52,52,52",
+                        "endOffsets": "358,519,679,412,572,732,465,625"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,167,221,273,326,379,432",
+                        "endColumns": "57,53,53,51,52,52,52,52",
+                        "endOffsets": "108,162,216,268,321,374,427,480"
+                    }
+                },
+                {
+                    "source": "/home/alex/StudioProjects/crazy-race/app/src/main/res/values-w960dp/styles.xml",
+                    "from": {
+                        "startLines": "3,7,15,11,29,26,37,34,19,40",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "77,179,420,317,930,832,1148,1036,550,1260",
+                        "endLines": "5,9,17,13,31,28,39,36,24,43",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "173,311,544,414,1029,925,1255,1143,826,1443"
+                    },
+                    "to": {
+                        "startLines": "10,13,16,19,22,25,28,31,34,40",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "485,586,723,852,954,1058,1156,1268,1380,1661",
+                        "endLines": "12,15,18,21,24,27,30,33,39,43",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "581,718,847,949,1053,1151,1263,1375,1656,1844"
+                    }
+                }
+            ]
+        }
+    ]
+}
